@@ -1,12 +1,18 @@
 {
-	"name": "my-module-template",
-	"version": "0.0.0",
-	"description": "My awesome module",
+	"name": "is-repeated",
+	"version": "1.0.0",
+	"description": "Check if a string has consecutive characters",
 	"keywords": [
-		"unicorn",
-		"fun"
+		"consecutive",
+		"repeated",
+		"string",
+		"str",
+		"character",
+		"char",
+		"is-consecutive",
+		"is-repeated"
 	],
-	"repository": "RocktimSaikia/my-module-template",
+	"repository": "RocktimSaikia/is-repeated",
 	"license": "MIT",
 	"author": {
 		"name": "Rocktim Saikia",
